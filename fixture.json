@@ -1,0 +1,652 @@
+[
+  {
+    "fecha": "11/06/2026 19:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo A",
+    "equipo1": "México",
+    "equipo2": "Sudáfrica",
+    "marcador": null,
+    "id": "p001"
+  },
+  {
+    "fecha": "12/06/2026 02:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo B",
+    "equipo1": "República de Corea",
+    "equipo2": "a confirmar",
+    "marcador": null,
+    "id": "p002"
+  },
+  {
+    "fecha": "12/06/2026 19:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo B",
+    "equipo1": "Canadá",
+    "equipo2": "a confirmar",
+    "marcador": null,
+    "id": "p003"
+  },
+  {
+    "fecha": "13/06/2026 01:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo D",
+    "equipo1": "Estados Unidos",
+    "equipo2": "Paraguay",
+    "marcador": null,
+    "id": "p004"
+  },
+  {
+    "fecha": "13/06/2026 19:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo B",
+    "equipo1": "Catar",
+    "equipo2": "Suiza",
+    "marcador": null,
+    "id": "p005"
+  },
+  {
+    "fecha": "13/06/2026 22:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo C",
+    "equipo1": "Brasil",
+    "equipo2": "Marruecos",
+    "marcador": null,
+    "id": "p006"
+  },
+  {
+    "fecha": "14/06/2026 01:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo C",
+    "equipo1": "Haití",
+    "equipo2": "Escocia",
+    "marcador": null,
+    "id": "p007"
+  },
+  {
+    "fecha": "14/06/2026 04:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo D",
+    "equipo1": "Australia",
+    "equipo2": "a confirmar",
+    "marcador": null,
+    "id": "p008"
+  },
+  {
+    "fecha": "14/06/2026 17:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo E",
+    "equipo1": "Alemania",
+    "equipo2": "Curazao",
+    "marcador": null,
+    "id": "p009"
+  },
+  {
+    "fecha": "14/06/2026 20:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo F",
+    "equipo1": "Países Bajos",
+    "equipo2": "Japón",
+    "marcador": null,
+    "id": "p010"
+  },
+  {
+    "fecha": "14/06/2026 23:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo E",
+    "equipo1": "Costa de Marfil",
+    "equipo2": "Ecuador",
+    "marcador": null,
+    "id": "p011"
+  },
+  {
+    "fecha": "15/06/2026 02:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo F",
+    "equipo1": "a confirmar",
+    "equipo2": "Túnez",
+    "marcador": null,
+    "id": "p012"
+  },
+  {
+    "fecha": "15/06/2026 16:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo H",
+    "equipo1": "España",
+    "equipo2": "Cabo Verde",
+    "marcador": null,
+    "id": "p013"
+  },
+  {
+    "fecha": "15/06/2026 19:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo G",
+    "equipo1": "Bélgica",
+    "equipo2": "Egipto",
+    "marcador": null,
+    "id": "p014"
+  },
+  {
+    "fecha": "15/06/2026 22:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo H",
+    "equipo1": "Arabia Saudita",
+    "equipo2": "Uruguay",
+    "marcador": null,
+    "id": "p015"
+  },
+  {
+    "fecha": "16/06/2026 01:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo G",
+    "equipo1": "Irán",
+    "equipo2": "Nueva Zelanda",
+    "marcador": {
+      "g1": null
+    },
+    "id": "p016"
+  },
+  {
+    "fecha": "16/06/2026 19:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo I",
+    "equipo1": "Francia",
+    "equipo2": "Senegal",
+    "marcador": null,
+    "id": "p017"
+  },
+  {
+    "fecha": "16/06/2026 22:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo I",
+    "equipo1": "a confirmar",
+    "equipo2": "Noruega",
+    "marcador": null,
+    "id": "p018"
+  },
+  {
+    "fecha": "17/06/2026 01:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo J",
+    "equipo1": "Argentina",
+    "equipo2": "Argelia",
+    "marcador": null,
+    "id": "p019"
+  },
+  {
+    "fecha": "17/06/2026 04:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo J",
+    "equipo1": "Austria",
+    "equipo2": "Jordania",
+    "marcador": null,
+    "id": "p020"
+  },
+  {
+    "fecha": "17/06/2026 17:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo K",
+    "equipo1": "Portugal",
+    "equipo2": "a confirmar",
+    "marcador": null,
+    "id": "p021"
+  },
+  {
+    "fecha": "17/06/2026 20:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo L",
+    "equipo1": "Inglaterra",
+    "equipo2": "Croacia",
+    "marcador": null,
+    "id": "p022"
+  },
+  {
+    "fecha": "17/06/2026 23:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo L",
+    "equipo1": "Ghana",
+    "equipo2": "Panamá",
+    "marcador": null,
+    "id": "p023"
+  },
+  {
+    "fecha": "18/06/2026 02:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo K",
+    "equipo1": "Uzbekistán",
+    "equipo2": "Colombia",
+    "marcador": null,
+    "id": "p024"
+  },
+  {
+    "fecha": "18/06/2026 16:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo A",
+    "equipo1": "a confirmar",
+    "equipo2": "Sudáfrica",
+    "marcador": null,
+    "id": "p025"
+  },
+  {
+    "fecha": "18/06/2026 19:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo B",
+    "equipo1": "Suiza",
+    "equipo2": "a confirmar",
+    "marcador": null,
+    "id": "p026"
+  },
+  {
+    "fecha": "18/06/2026 22:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo B",
+    "equipo1": "Canadá",
+    "equipo2": "Catar",
+    "marcador": null,
+    "id": "p027"
+  },
+  {
+    "fecha": "19/06/2026 01:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo A",
+    "equipo1": "México",
+    "equipo2": "Corea del Sur",
+    "marcador": null,
+    "id": "p028"
+  },
+  {
+    "fecha": "19/06/2026 19:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo D",
+    "equipo1": "Estados Unidos",
+    "equipo2": "Australia",
+    "marcador": null,
+    "id": "p029"
+  },
+  {
+    "fecha": "19/06/2026 22:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo C",
+    "equipo1": "Escocia",
+    "equipo2": "Marruecos",
+    "marcador": null,
+    "id": "p030"
+  },
+  {
+    "fecha": "20/06/2026 01:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo C",
+    "equipo1": "Brasil",
+    "equipo2": "Haití",
+    "marcador": null,
+    "id": "p031"
+  },
+  {
+    "fecha": "20/06/2026 04:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo D",
+    "equipo1": "a confirmar",
+    "equipo2": "Paraguay",
+    "marcador": null,
+    "id": "p032"
+  },
+  {
+    "fecha": "20/06/2026 17:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo F",
+    "equipo1": "Países Bajos",
+    "equipo2": "a confirmar",
+    "marcador": null,
+    "id": "p033"
+  },
+  {
+    "fecha": "20/06/2026 20:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo E",
+    "equipo1": "Alemania",
+    "equipo2": "Costa de Marfíl",
+    "marcador": null,
+    "id": "p034"
+  },
+  {
+    "fecha": "21/06/2026 00:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo E",
+    "equipo1": "Ecuador",
+    "equipo2": "Curazao",
+    "marcador": null,
+    "id": "p035"
+  },
+  {
+    "fecha": "21/06/2026 04:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo F",
+    "equipo1": "Túnez",
+    "equipo2": "Japón",
+    "marcador": null,
+    "id": "p036"
+  },
+  {
+    "fecha": "21/06/2026 16:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo H",
+    "equipo1": "España",
+    "equipo2": "Arabia Saudita",
+    "marcador": null,
+    "id": "p037"
+  },
+  {
+    "fecha": "21/06/2026 19:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo G",
+    "equipo1": "Bélgica",
+    "equipo2": "Irán",
+    "marcador": null,
+    "id": "p038"
+  },
+  {
+    "fecha": "21/06/2026 22:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo H",
+    "equipo1": "Uruguay",
+    "equipo2": "Cabo Verde",
+    "marcador": null,
+    "id": "p039"
+  },
+  {
+    "fecha": "22/06/2026 01:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo G",
+    "equipo1": "Nueva Zelanda",
+    "equipo2": "Egipto",
+    "marcador": null,
+    "id": "p040"
+  },
+  {
+    "fecha": "22/06/2026 17:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo J",
+    "equipo1": "Argentina",
+    "equipo2": "Austria",
+    "marcador": null,
+    "id": "p041"
+  },
+  {
+    "fecha": "22/06/2026 21:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo I",
+    "equipo1": "Francia",
+    "equipo2": "a confirmar",
+    "marcador": null,
+    "id": "p042"
+  },
+  {
+    "fecha": "23/06/2026 00:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo I",
+    "equipo1": "Noruega",
+    "equipo2": "Senegal",
+    "marcador": null,
+    "id": "p043"
+  },
+  {
+    "fecha": "23/06/2026 15:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo J",
+    "equipo1": "Jordania",
+    "equipo2": "Argelia",
+    "marcador": null,
+    "id": "p044"
+  },
+  {
+    "fecha": "23/06/2026 17:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo K",
+    "equipo1": "Portugal",
+    "equipo2": "Uzbekistán",
+    "marcador": null,
+    "id": "p045"
+  },
+  {
+    "fecha": "23/06/2026 20:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo L",
+    "equipo1": "Inglaterra",
+    "equipo2": "Ghana",
+    "marcador": null,
+    "id": "p046"
+  },
+  {
+    "fecha": "23/06/2026 23:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo L",
+    "equipo1": "Panamá",
+    "equipo2": "Croacia",
+    "marcador": null,
+    "id": "p047"
+  },
+  {
+    "fecha": "24/06/2026 02:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo K",
+    "equipo1": "Colombia",
+    "equipo2": "a confirmar",
+    "marcador": null,
+    "id": "p048"
+  },
+  {
+    "fecha": "24/06/2026 18:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo B",
+    "equipo1": "Suiza",
+    "equipo2": "Canadá",
+    "marcador": null,
+    "id": "p049"
+  },
+  {
+    "fecha": "24/06/2026 19:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo B",
+    "equipo1": "a confirmar",
+    "equipo2": "Catar",
+    "marcador": null,
+    "id": "p050"
+  },
+  {
+    "fecha": "24/06/2026 22:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo C",
+    "equipo1": "Marruecos",
+    "equipo2": "Haití",
+    "marcador": null,
+    "id": "p051"
+  },
+  {
+    "fecha": "24/06/2026 22:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo C",
+    "equipo1": "Escocia",
+    "equipo2": "Brasil",
+    "marcador": null,
+    "id": "p052"
+  },
+  {
+    "fecha": "25/06/2026 01:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo A",
+    "equipo1": "Sudáfrica",
+    "equipo2": "Corea del Sur",
+    "marcador": null,
+    "id": "p053"
+  },
+  {
+    "fecha": "25/06/2026 01:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo A",
+    "equipo1": "a confirmar",
+    "equipo2": "México",
+    "marcador": null,
+    "id": "p054"
+  },
+  {
+    "fecha": "25/06/2026 20:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo E",
+    "equipo1": "Curazao",
+    "equipo2": "Costa de Marfíl",
+    "marcador": null,
+    "id": "p055"
+  },
+  {
+    "fecha": "25/06/2026 20:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo E",
+    "equipo1": "Ecuador",
+    "equipo2": "Alemania",
+    "marcador": null,
+    "id": "p056"
+  },
+  {
+    "fecha": "25/06/2026 23:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo F",
+    "equipo1": "Túnez",
+    "equipo2": "Países Bajos",
+    "marcador": null,
+    "id": "p057"
+  },
+  {
+    "fecha": "25/06/2026 23:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo F",
+    "equipo1": "Japón",
+    "equipo2": "a confirmar",
+    "marcador": null,
+    "id": "p058"
+  },
+  {
+    "fecha": "26/06/2026 02:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo D",
+    "equipo1": "a confirmar",
+    "equipo2": "Estados Unidos",
+    "marcador": null,
+    "id": "p059"
+  },
+  {
+    "fecha": "26/06/2026 02:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo D",
+    "equipo1": "Paraguay",
+    "equipo2": "Australia",
+    "marcador": null,
+    "id": "p060"
+  },
+  {
+    "fecha": "26/06/2026 19:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo I",
+    "equipo1": "Noruega",
+    "equipo2": "Francia",
+    "marcador": null,
+    "id": "p061"
+  },
+  {
+    "fecha": "26/06/2026 19:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo I",
+    "equipo1": "Senegal",
+    "equipo2": "a confirmar",
+    "marcador": null,
+    "id": "p062"
+  },
+  {
+    "fecha": "27/06/2026 00:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo H",
+    "equipo1": "Cabo Verde",
+    "equipo2": "Arabia Saudita",
+    "marcador": null,
+    "id": "p063"
+  },
+  {
+    "fecha": "27/06/2026 00:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo H",
+    "equipo1": "Uruguay",
+    "equipo2": "España",
+    "marcador": null,
+    "id": "p064"
+  },
+  {
+    "fecha": "27/06/2026 15:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo G",
+    "equipo1": "Nueva Zelanda",
+    "equipo2": "Bélgica",
+    "marcador": null,
+    "id": "p065"
+  },
+  {
+    "fecha": "27/06/2026 15:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo G",
+    "equipo1": "Egipto",
+    "equipo2": "Irán",
+    "marcador": null,
+    "id": "p066"
+  },
+  {
+    "fecha": "27/06/2026 21:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo L",
+    "equipo1": "Panamá",
+    "equipo2": "Inglaterra",
+    "marcador": null,
+    "id": "p067"
+  },
+  {
+    "fecha": "27/06/2026 21:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo L",
+    "equipo1": "Croacia",
+    "equipo2": "Ghana",
+    "marcador": null,
+    "id": "p068"
+  },
+  {
+    "fecha": "27/06/2026 23:30",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo K",
+    "equipo1": "Colombia",
+    "equipo2": "Portugal",
+    "marcador": null,
+    "id": "p069"
+  },
+  {
+    "fecha": "27/06/2026 23:30",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo K",
+    "equipo1": "a confirmar",
+    "equipo2": "Uzbekistán",
+    "marcador": null,
+    "id": "p070"
+  },
+  {
+    "fecha": "28/06/2026 02:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo J",
+    "equipo1": "Argelia",
+    "equipo2": "Austria",
+    "marcador": null,
+    "id": "p071"
+  },
+  {
+    "fecha": "28/06/2026 02:00",
+    "fase": "Fase de grupos",
+    "subfase": "Grupo J",
+    "equipo1": "Jordania",
+    "equipo2": "Argentina",
+    "marcador": null,
+    "id": "p072"
+  }
+]
