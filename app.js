@@ -7,13 +7,30 @@ fetch("fixture.json")
       const div = document.createElement("div");
       div.className = "partido";
 
+    if (partido.marcador !== null) {
+    div.classList.add("jugado");
+    }
+
       const fecha = document.createElement("div");
       fecha.className = "fecha";
       fecha.textContent = partido.fecha;
 
       const equipos = document.createElement("div");
       equipos.className = "equipos";
-      equipos.textContent = `${partido.equipo1} vs ${partido.equipo2}`;
+
+      const e1 = document.createElement("span");
+      e1.className = "equipo equipo1";
+      e1.textContent = partido.equipo1;
+
+      const vs = document.createElement("span");
+      vs.textContent = " vs ";
+
+     const e2 = document.createElement("span");
+     e2.className = "equipo equipo2";
+     e2.textContent = partido.equipo2;
+
+     equipos.append(e1, vs, e2);
+
 
       const fase = document.createElement("div");
       fase.className = "fase";
