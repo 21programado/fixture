@@ -9,7 +9,7 @@
       font-family: system-ui, sans-serif;
       margin: 0;
       padding: 16px;
-      background: #29B334;
+      background: #f7f7f7;
       color: #222;
     }
     .partido {
@@ -58,9 +58,13 @@
 <body>
 
 <h1>Fixture Mundial 2026</h1>
+<label for="pais">Filtrar por país:</label>
+<select id="pais">
+  <option value="">Todos</option>
+</select>
+
 <div id="fixture"></div>
 
 <script src="app.js"></script>
 </body>
 </html>
-
