@@ -53,15 +53,33 @@
   opacity: 0.7;
   }
 
+.filtros {
+  margin-bottom: 20px;
+}
+
+.filtros label {
+  margin-right: 8px;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.filtros select {
+  padding: 4px 6px;
+  font-size: 0.9rem;
+}
+
   </style>
 </head>
 <body>
 
 <h1>Fixture Mundial 2026</h1>
-<label for="pais">Filtrar por país:</label>
-<select id="pais">
-  <option value="">Todos</option>
-</select>
+
+<div class="filtros">
+  <label for="pais">Filtrar por país:</label>
+  <select id="pais">
+    <option value="">Todos</option>
+  </select>
+</div>
 
 <div id="fixture"></div>
 
